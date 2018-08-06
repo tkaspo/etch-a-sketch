@@ -1,0 +1,81 @@
+html {
+	height: 100%;
+    width: 100%;
+    display: block;
+}
+
+header {
+	background-color: #0A4958;
+	padding-top: 0.2%;
+	padding-bottom: 0.2%;
+}
+
+h1 {
+	font-family: 'Roboto Mono', monospace;
+	font-size: 40px;
+	color: #01B6AD;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Lobster', cursive;
+    font-size: 30px;
+    letter-spacing: 2px;
+	color: #F6E7D2;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    padding: 2%;
+}
+
+#grid {
+	display: inline-block;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    border: 60px solid #0A4958;
+    border-radius: 15px;
+	background: #b2d8d8;
+}
+
+.grid-cell{
+    display: inline-block;
+    height: 37.5px;
+    width: 37.5px;
+}
+
+.reset {
+    display: grid;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+}
+#reset-btn {
+    margin: 2%;
+    padding: 8px;
+    font-family: 'Lobster', cursive;
+    font-size: 14pt;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background: #01b6ad;
+    float: left;
+}
+
+#reset-btn
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Lobster', cursive;/*
+
+/*Colors - Aqua Hex Codes
+#b2d8d8
+#66b2b2
+#008080
+#006666
+#004c4c
+*/
