@@ -1,4 +1,4 @@
-#etch-a-sketch
+Etch-a-sketch
 
 In this project you’ll be creating a pretty neat toy for your portfolio to flex your DOM manipulation skills. You’re going to build a browser version of something between a sketchpad and an Etch-A-Sketch.
 
@@ -6,3 +6,4 @@ This project should not be easy for you. You’ll probably have to Google freque
 
 If you get totally stuck drop by the chatroom.. someone will be there to point you in the right direction.
 
+Etch-a-Sketch Project URL: https://tkaspo.github.io/etch-a-sketch/
